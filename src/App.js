@@ -12,9 +12,7 @@ import Personal from './component/Personal';
 function App() {
   return (
     <>
-    
     <Navbar/>
-     
     <About/>
     <hr/>
     <Skills/>
@@ -25,7 +23,7 @@ function App() {
     <hr/>
     <Personal/>
     <hr/>
-    <Contact/>
+    <Contact />
     
        
     

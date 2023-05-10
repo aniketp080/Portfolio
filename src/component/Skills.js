@@ -73,20 +73,14 @@ const Skills = () => {
                 </div>
 
                 <div className="skill">
-                <div className="skill-name">Basic Nodejs</div>
+                <div className="skill-name">Basic GIT/GITHUB</div>
                     <div className="skill-bar">
                         <div className="skill-per " per="40%" style={{maxWidth:"40%"}} ></div>
                     
                 </div>
                 </div>
 
-                <div className="skill">
-                <div className="skill-name">Basic MongoDB</div>
-                    <div className="skill-bar">
-                        <div className="skill-per " per="40%" style={{maxWidth:"40%"}} ></div>
-                    
-                </div>
-                </div>
+                
             </div>
            
             </div> 

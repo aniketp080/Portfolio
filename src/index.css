@@ -32,17 +32,17 @@ h2{
   -webkit-text-stroke: 0vw black;
   border-right: 2px solid white;
   overflow: hidden;
-  animation: animate 6s linear infinite;
+  animation: animate 4s linear infinite;
 
 } 
 @keyframes animate{
-  10%{
+  0%,10%{
     width:0%
   }
  
 
   100%{
-    width: 100%;
+    width: 110%;
   }
   
   
@@ -146,7 +146,7 @@ a:hover:after{
   display: flex;
 }
 .card-title{
-  height: 400px;
+  height: 70vh;
   margin: 50px;
   box-shadow:5px 5px 20px white;
   overflow: hidden;
@@ -172,6 +172,7 @@ a:hover:after{
   margin-left: 20px;
   visibility: hidden;
   opacity: 0;
+  width: 17vw;
 }
 span{
   font-weight: bold;

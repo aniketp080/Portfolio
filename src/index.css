@@ -157,13 +157,13 @@ a:hover:after{
   padding-left:6px ;
   box-sizing: border-box;
   position: absolute;
-  bottom: 51px;
+  bottom: 50px;
   background: rgba(27,27,27,.5);
   color: white;
   transition: .5s;
 }
 .h1-text{
-  margin: 10px;
+  margin: 5px;
   font-size:40px
 
 }

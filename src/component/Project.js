@@ -1,5 +1,7 @@
 import React from 'react'
-import img1 from '../images/Passport_Photograph.jpg'
+import hms from '../images/hms.jpg'
+import news from '../images/news.jpg'
+import alarm from'../images/alarm.jpg'
 
 const Project = () => {
   return (
@@ -14,30 +16,39 @@ const Project = () => {
                 
                 <div className="container bg-dark">
                     <div className="card-title bg-dark">
-                        <img src={img1} alt="" height="400px" width="300px" style={{transition:"0.5s"}} />
+                        <img src={hms} alt="" height="400px" width="300px" style={{transition:"0.5s"}} />
                         <div className="intro">
+                        <a href=" https://drive.google.com/drive/u/0/folders/1EG4_1HiTtNa56LSxAd2AClth03QOBV7_" target='_blank' style={{textDecoration:"none",color:"white"}}>
                         <h1 className='h1-text'>HMS</h1>
+                        </a>
                         <p className='p-text'><span></span>This hotel management system is developed for hotels that are using a manual system to handle hotel processes. The main objective of the system is to automate the process of day to day activities of the Hotel and it will reduce the extensive paperwork in the present system</p>
+                        
                     </div>
                     </div>
                
 
                 
                     <div className="card-title bg-dark">
-                        <img src={img1} alt="" height="400px" width="300px" style={{transition:"0.5s"}}/>
+                        <img src={news} alt="" height="400px" width="300px" style={{transition:"0.5s"}}/>
                         <div className="intro">
-                        <h1 className='h1-text'>NewsMonkey</h1>
-                        <p className='p-text'><span></span>This NewsMonkey app is basically fetching the news from the online Api and displaying the news in UI for the user according to various sections.Also in this newsmonkey infinite scroll feature is used. </p>
+                        <a href="https://github.com/aniketp080/newsapp" target='_blank' style={{textDecoration:"none",color:"white"}}>
+                        <h1 className='h1-text'>News App</h1>
+                        </a>
+                        <p className='p-text'><span></span>This News app is basically fetching the news from the online Api and displaying the news in UI for the user according to various sections.Also in this news app infinite scroll feature is used. </p>
+                        
                     </div>
                     </div>
                 
 
                 
                     <div className="card-title bg-dark">
-                        <img src={img1} alt="" height="400px" width="300px" style={{transition:"0.5s"}} />
+                        <img src={alarm} alt="" height="400px" width="300px" style={{transition:"0.5s"}} />
                         <div className="intro">
+                        <a href=" https://aniketp080.github.io/alarm-clock/" target='_blank' style={{textDecoration:"none",color:"white"}}>
                         <h1 className='h1-text'>Alarm Clock</h1>
-                        <p className='p-text'>The<span>Hotel</span>This hotel management system is developed for hotels that are using a manual system to handle hotel processes. The main objective of the system is to automate the process of day to day activities of the Hotel and it will reduce the extensive paperwork in the present system</p>
+                        </a>
+                        <p className='p-text'>The technologies used to create Alarm Clock are HTML,CSS,JavaScript</p>
+                        
                     </div>
                     </div>
                 

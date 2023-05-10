@@ -5,6 +5,7 @@ const Contact = () => {
     <>
     <h2 id="Contact-1"className='d-flex justify-content-center  my-3' style={{fontWeight:"bold"}}>Contact</h2>
         <hr/>
+        
         <div className='container hover-mouse'>
 
         <div className="skills  card    bg-dark " style={{color:"white"}} >
@@ -38,10 +39,10 @@ const Contact = () => {
             </ul>
             
                 <div className='socialIcons'>
-                <a href=""><i className="fa-brands fa-github fa-lg" ></i></a>
-                <a href=""><i className="fa-brands fa-instagram fa-lg" ></i></a>
-                <a href=""><i className="fa-brands fa-linkedin fa-lg" ></i></a>
-                <a href=""><i className="fa-brands fa-whatsapp fa-lg"></i></a>
+                <a href="https://github.com/aniketp080"><i className="fa-brands fa-github fa-lg" ></i></a>
+                <a href="https://www.instagram.com/ani_080/"><i className="fa-brands fa-instagram fa-lg" ></i></a>
+                {/* <a href=""><i className="fa-brands fa-linkedin fa-lg" ></i></a> */}
+                {/* <a href=""><i className="fa-brands fa-whatsapp fa-lg"></i></a> */}
                 </div>
 
                 
@@ -49,14 +50,14 @@ const Contact = () => {
                 
                 
                
-                </div>
+              </div>
        
        
                
                 
-                
-               
         </div>
+               
+      
       
     </>
   )

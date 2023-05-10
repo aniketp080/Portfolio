@@ -22,7 +22,7 @@ const Skills = () => {
                 <div className="skill-name">
                     HTML</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="90%" style={{maxWidth:"90%"}} ></div>
+                        <div className="skill-per " per="70%" style={{maxWidth:"70%"}} ></div>
                     </div>
                 
                 </div>
@@ -51,7 +51,7 @@ const Skills = () => {
             <div className="skill">
                 <div className="skill-name">BootStrap</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="80%" style={{maxWidth:"80%"}}>
+                        <div className="skill-per " per="70%" style={{maxWidth:"70%"}}>
                     </div>
                 </div>
             </div>  
@@ -59,7 +59,7 @@ const Skills = () => {
             <div className="skill">
                 <div className="skill-name">React</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="60%" style={{maxWidth:"50%"}} ></div>
+                        <div className="skill-per " per="60%" style={{maxWidth:"60%"}} ></div>
                     
                 </div>
                 </div>
@@ -67,7 +67,7 @@ const Skills = () => {
                 <div className="skill">
                 <div className="skill-name">My SQL</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="60%" style={{maxWidth:"50%"}} ></div>
+                        <div className="skill-per " per="60%" style={{maxWidth:"60%"}} ></div>
                     
                 </div>
                 </div>
@@ -75,7 +75,7 @@ const Skills = () => {
                 <div className="skill">
                 <div className="skill-name">Basic Nodejs</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="40%" style={{maxWidth:"50%"}} ></div>
+                        <div className="skill-per " per="40%" style={{maxWidth:"40%"}} ></div>
                     
                 </div>
                 </div>
@@ -83,7 +83,7 @@ const Skills = () => {
                 <div className="skill">
                 <div className="skill-name">Basic MongoDB</div>
                     <div className="skill-bar">
-                        <div className="skill-per " per="40%" style={{maxWidth:"50%"}} ></div>
+                        <div className="skill-per " per="40%" style={{maxWidth:"40%"}} ></div>
                     
                 </div>
                 </div>

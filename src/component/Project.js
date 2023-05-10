@@ -17,7 +17,7 @@ const Project = () => {
                         <img src={img1} alt="" height="400px" width="300px" style={{transition:"0.5s"}} />
                         <div className="intro">
                         <h1 className='h1-text'>HMS</h1>
-                        <p className='p-text'>The<span>Hotel</span>This hotel management system is developed for hotels that are using a manual system to handle hotel processes. The main objective of the system is to automate the process of day to day activities of the Hotel and it will reduce the extensive paperwork in the present system</p>
+                        <p className='p-text'><span></span>This hotel management system is developed for hotels that are using a manual system to handle hotel processes. The main objective of the system is to automate the process of day to day activities of the Hotel and it will reduce the extensive paperwork in the present system</p>
                     </div>
                     </div>
                
@@ -26,8 +26,8 @@ const Project = () => {
                     <div className="card-title bg-dark">
                         <img src={img1} alt="" height="400px" width="300px" style={{transition:"0.5s"}}/>
                         <div className="intro">
-                        <h1 className='h1-text'>NEWS</h1>
-                        <p className='p-text'>The<span>Hotel</span>This hotel management system is developed for hotels that are using a manual system to handle hotel processes. The main objective of the system is to automate the process of day to day activities of the Hotel and it will reduce the extensive paperwork in the present system</p>
+                        <h1 className='h1-text'>NewsMonkey</h1>
+                        <p className='p-text'><span></span>This NewsMonkey app is basically fetching the news from the online Api and displaying the news in UI for the user according to various sections.Also in this newsmonkey infinite scroll feature is used. </p>
                     </div>
                     </div>
                 

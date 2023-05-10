@@ -11,7 +11,7 @@ const Personal = () => {
                     
                     <ul>
                         <li>
-                            <p className="card-text text-muted" style={{fontSize:"17px"}}>Champion of Champion in SSC</p>
+                            <p className="card-text text-muted" style={{fontSize:"17px"}}>Champion of Champion for Sports in SSC </p>
                         </li>
                         <li>
                             <p className="card-text text-muted" style={{fontSize:"17px"}}>Won many sports event in College Sports</p>
